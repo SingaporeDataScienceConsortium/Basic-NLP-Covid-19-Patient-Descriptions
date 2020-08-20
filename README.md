@@ -4,3 +4,5 @@ Basic NLP Rule-Based Information Extraction
 This example demonstrates rule-based information extraction from Covid-19 patient descriptions.
 
 source: https://www.moh.gov.sg/covid-19
+
+Author: ZHANG Zhen, Dr. (Data Scientist, Singapore Data Science Consortium)
