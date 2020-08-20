@@ -1,0 +1,552 @@
+Case 151
+Case 151 is a 52 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is a contact of Cases 66 and 91, and is linked to the cluster at The City Church CountryL. He reported onset of symptoms on 4 February and had sought treatment at a general practitioner clinic on 5 February and 13 February, and at Wushun Polyclinic on 8 February and 13 February. As he had been identified to have attended the Chinese New Year gathering at Mei Wah Drive on 25 January. Subsequent serological test results on 8 March afternoon confirmed that he had an earlier COVID-19 infection. He stays at Wushun Ring Road.
+
+Case 103
+Case 103 is a 36 year-old female CountryL Citizen who has no recent travel history to CountryJ, CountryS and CountryO but had been in CountryI from 21 February to 23 February. She is currently warded in an isolation room at the Central Hospital. She is a family member of Case 93, and is linked to Case 101. As she had been identified as a close contact of Case 93 and had reported not having any recent illness, she was issued a home quarantine order on 26 February. On 29 February, she revealed that she had onset of symptoms on 20 February and had sought treatment at a general practitioner clinic on 25 February. She was immediately conveyed to Central Hospital in an ambulance and was isolated. Subsequent test results confirmed COVID-19 infection on 1 March morning. Prior to hospital admission, she had gone to work at Asia Asset Pte Ltd (20 Hillview Industrial Park A). She stays at Batok Road 30.
+
+Case 205
+Case 205 is an imported case involving a 32 year-old female CountryB Citizen who is a CountryL Long Term Visit Pass holder, and had been in the CountryB from 27 February to 6 March. She was confirmed to have COVID-19 infection on 14 March morning, and is currently warded in an isolation room at the Central Hospital.
+
+Case 130
+Case 130 is a 63 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 6 March morning and is currently warded in an isolation room at South Hospital. He is linked to the cluster involving the private dinner function at Music Club.
+
+Case 153
+Case 153 is likely to be an imported case involving a 66 year-old female CountryL Citizen who had been in CountryG from 25 February to 28 February. She reported that while she was in CountryG, she had visited her sister who had pneumonia. She is currently warded in an isolation room at East Hospital. She reported onset of symptoms on 3 March and had sought treatment at Chu Kang Polyclinic on the same day and on 7 March. She presented at the emergency department at East Hospital on 7 March, and subsequent test results confirmed COVID-19 infection on 8 March afternoon. Prior to hospital admission, she had mostly stayed at her home at Jalan Teck.
+
+Case 93
+Case 93 is a 36 year-old male CountryL Citizen who has no recent travel history to CountryJ. He was confirmed to have COVID-19 infection on 26 February morning and is currently warded in an isolation room at South Hospital.
+
+Case 198
+Case 198 is a 62 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 13 March morning, and is currently warded at Central Hospital.
+
+Case 226
+Case 226 is an imported case involving a 48 year-old male CountryE Citizen. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 122
+Case 122 is a 67 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at Central Hospital. She is a close contact of Case 117, and is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 3 March and had sought treatment at a general practitioner clinic on 5 March. She was referred to Central Hospital on the same day, and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, she had visited West Mall (3 Gate Drive) and Hong Community Club (2 Kang Loop). She stays at Peter Road.
+
+Case 181
+Case 181 is an imported case involving an 85 year-old male CountryG Citizen who had arrived in CountryL on 9 March. He was confirmed to have COVID-19 infection on 12 March morning, and is currently warded at Harbour Hospital. He is a family member of Case 182.
+
+Case 128
+Case 128 is a 72 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 6 March morning and is currently warded in an isolation room at Central Hospital. He is a family member of Case 125, and is linked to the cluster involving a private dinner function at Music Club.
+
+Case 117
+Case 117 is a 53 year-old female CountryL Citizen who has no recent travel history to affected countries and regions but had been in CountryI on 1 March. She was confirmed to have COVID-19 infection on 5 March morning and is currently warded in an isolation room at Central Hospital. She is linked to the cluster involving a private dinner function at Music Club.
+
+Case 154
+Case 154 is an imported case involving a 55 year-old male CountryH Citizen. He arrived in CountryL on 6 March and was confirmed to have COVID-19 infection on 9 March morning and is currently warded in an isolation room at Central Hospital.
+
+Case 81
+Case 81 is a 51 year-old male CountryL Citizen with no recent travel history to CountryJ. He was confirmed to have COVID-19 infection on 18 February morning, and is currently warded in an isolation room at Central Hospital. He is linked to the cluster at Grace Church.  
+
+Case 160
+Case 160 is a 4 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 9 March morning, and is currently warded in an isolation room at People Hospital. He is a family member of Case 145, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 204
+Case 204 is an imported case involving a 36 year-old male CountryD Citizen who is a CountryL Work Pass holder, and had been in CountryO from 29 February to 8 March. He is currently warded in an isolation room at East Hospital. He reported onset of symptoms on 11 March, and had sought treatment at a general practitioner clinic on 12 March. He presented at East Hospital on 12 March, and subsequent test results confirmed COVID-19 infection on 13 March afternoon. Prior to hospital admission, he had mostly stayed at his home in the Tanjong Road area.
+
+Case 44
+Case 44 is a 39 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at North Hospital. He reported onset of symptoms on 31 January, and had sought treatment at a general practitioner clinic on 2 February. He went to North Hospital on 6 February where he was immediately isolated. Subsequent test results confirmed 2019-nCoV infection on 9 February afternoon. Prior to hospital admission, he had gone to work at Cisco Centre (20 Kim Street), and had been on duty at Activity 2020. Prior to onset of symptoms, he had served Quarantine Orders on two individuals from Wuhan who were subsequently tested positive for 2019-nCoV. He had not served any Quarantine Order after onset of symptoms. He stays at Semi Drive.
+
+Case 61
+Case 61 is a 56 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at the West Hospital. He is linked to the cluster at Grace Church. He reported onset of symptoms on 6 February, and sought treatment at a general practitioner clinic on the same day and again on 8 February. He went to South Hospital on 9 February and Pioneer Polyclinic on 11 February and 12 February. Subsequent test results confirmed COVID-19 infection on 13 February afternoon. Prior to hospital admission, he reported that he had mostly stayed at home at Grand West Street 6, except to go to work for a day at Legacy Logistics Pte Ltd (56 Sen Crescent).
+
+Case 60
+Case 60 is a 50 year-old female CountryL Citizen with no recent travel history to CountryJ. She is currently warded in an isolation room at Central Hospital. She is linked to the cluster at Grace Church. She reported onset of symptoms on 8 February and sought treatment at a general practitioner clinic on the same day. She went to Central Hospital on 12 February and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 13 February afternoon. Prior to hospital admission, she had mostly stayed at her home at Red Dot Avenue 3 and went to work at Grace Church (Tang Shan). 
+
+Case 149
+Case 149 is a 61 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital. He is linked to the cluster involving the private dinner function at Music Club.
+
+Case 30
+Case 30 is a 29 year-old male CountryL Citizen who has no recent travel history to mainland CountryJ. He is one of the four CountryL residents who are being investigated at Central Hospital after attending a private business meeting at Sun Hotel CountryL from 20 to 22 January. The meeting included participants from CountryJ, including Hubei, and the confirmed cases from CountryI and CountryS. Subsequent test results confirmed 2019-nCoV infection on 6 February at about 2pm. He is currently warded in an isolation room at Central Hospital.
+
+Case 136
+Case 136 is likely to be an imported case involving a 37 year-old male CountryM Citizen CountryL Work Pass holder who had recently travelled to the CountryD from 7 February to 22 February, and to CountryM from 23 February to 29 February. He was confirmed to have COVID-19 infection on 6 March afternoon and is currently warded in an isolation room at Central Hospital.
+
+Case 78
+Case 78 is a 58 year-old female CountryL Citizen with no recent travel history to CountryJ. She is currently warded in an isolation room at the Central Hospital. She is linked to the cluster at Grace Church. She reported onset of symptoms on 9 February and had sought treatment at two general practitioner clinics on 10 February and 17 February. She was conveyed to Central Hospital on 17 February. Subsequent test results confirmed COVID-19 infection on 17 February afternoon. Prior to hospital admission, she had gone to work at a community hospital. She performs an administrative function at the community hospital, and had not interacted with patients since onset of symptoms. She stays at the Farm area.  
+
+Case 166
+Case 166 is a 56 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 10 March morning, and is currently warded in an isolation room at South Hospital. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 209
+Case 209 is an imported case involving a 29 year-old female CountryL Citizen who had been in the CountryD from 2 March to 7 March. She was confirmed to have COVID-19 infection on 14 March morning, and is currently warded in an isolation room at East Hospital.
+
+Case 177
+Case 177 is an imported case involving a 24 year-old male CountryL Citizen who had been in the CountryD from 14 February to 24 February, the CountryH from 28 February to 1 March, and CountryC from 2 March to 7 March. He was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 46
+Case 46 is a 33 year-old male CountryL Permanent Resident with no recent travel history to CountryJ. He lives in CountryI and works in CountryL. He is currently warded in an isolation room at the Central Hospital. He reported onset of symptoms on 5 February, and had sought treatment at a general practitioner clinic on 9 February. He was transferred to Community Hospital via an ambulance on the same day, and was immediately isolated. Subsequent test results confirmed 2019-nCoV infection on 10 February afternoon. Prior to hospital admission, he had gone to work at World Casino (8 Garden Gateway). 
+
+Case 109
+Case 109 is a 72 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at the East Hospital. He reported onset of symptoms on 25 February and had sought treatment at a general practitioner clinic on 27 February and 28 February. He presented at East Hospital on 29 February and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 2 March afternoon. Prior to hospital admission, he had gone to work at Fish Mart (15 Westgate Road) but had not served customers or handled food. He stays at Ever Garden.
+
+Case 134
+Case 134 is a 53 year-old female CountryL Citizen who has no recent travel history to affected countries and regions, but had been in CountryI on 21 February. She is currently warded in an isolation room at the Central Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 28 February and had sought treatment at a general practitioner clinic on 6 March, and was referred to Central Hospital on the same day. Subsequent test results confirmed COVID-19 infection on 6 March afternoon. Prior to hospital admission, she had visited various community clubs and residents committees. She stays at Grand West Street 71.
+
+Case 133
+Case 133 is a 66 year-old female CountryG Citizen who is a CountryL Social Visit Pass holder, and who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at West Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 29 February and had sought treatment at a general practitioner clinic on 1 March and at Wushun Polyclinic on 4 March and 6 March. She was referred to the emergency department at West Hospital on 6 March. Subsequent test results confirmed COVID-19 infection on 6 March afternoon. Prior to hospital admission, she had mostly stayed at her home at Grand West Street 61.
+
+Case 112
+Case 112 is a 63 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 4 March morning and is warded in an isolation room at the Central Hospital. She works at Creative Bay (30 Gand Business Park) as a non-teaching staff. She is linked to Case 94.
+
+Case 127
+Case 127 is a 65 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 5 March afternoon and is currently warded in an isolation room at Central Hospital. She is a close contact of Case 117, and is linked to the cluster involving a private dinner function at Music Club.
+
+Case 175
+Case 175 is an imported case of a 45 year-old male CountryL Citizen who had been in CountryC from 15 February to 7 March. He was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital. He is a CountryL Air Force serviceman, and is a contact of Cases 165, 169 and 173. He is one of the imported cases who had been in CountryC on official duty. He had not gone to work since returning to CountryL.
+
+Case 192
+Case 192 is an imported case involving a 33 year-old male CountryD Citizen who arrived in CountryL on 10 March from the CountryD. He was confirmed to have COVID-19 infection on 13 March morning, and is currently warded at Central Hospital.
+
+Case 161
+Case 161 is a 74 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at the Central Hospital. He is a family member of Case 107, and is linked to the cluster involving the private dinner function at Music Club He reported onset of symptoms on 27 February. As he had been identified as a contact of Case 107, he was referred by MOH to Central Hospital on 1 March. Subsequent test results confirmed COVID-19 infection on 9 March afternoon. He stays at Bashan Street 13.
+
+Case 74
+Case 74 is a 28 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at Public Hospital. He is linked to the cluster at Grace Church. He reported onset of symptoms on 12 February. He had sought treatment at the Urgent Care Centre at Public Hospital on 12 February, and again on 15 February when he was admitted and immediately isolated. Subsequent test results confirmed COVID-19 infection on 15 February afternoon. Prior to hospital admission, he had gone to work at Yew Technology Pte Ltd (30 Mei Road). He stays at Mei Shan Street.
+
+Case 7
+Case 7 is a 36 year-old male CountryJ Citizen from Wuhan who arrived in CountryL on 23 January with family and friends. He is currently warded in an isolation room at the Central Hospital and his condition is stable. The case reported that he was asymptomatic during the flight to CountryL. He subsequently developed symptoms on 24 January, and self-presented to Harvest Hospital via public transport on the same day. He was classified as a suspect case and immediately conveyed to Central Hospital via an ambulance. Subsequent test results confirmed Wuhan coronavirus infection on 27 January at about 11pm. Prior to hospital admission, the case stayed at Marina Sands located at 10 Front Avenue, and had travelled on public transport. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low. MOH has initiated epidemiological investigations and contact tracing to identify individuals who had close contact with the cases. Both cases have no known links to the other confirmed imported cases.
+
+Case 67
+59 year-old female CountryL Citizen with no recent travel history to CountryJ. She is linked to the cluster at Grace Church, and is a family member of Case 61. 
+
+Case 138
+Case 138 is a 27 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 6 March afternoon and is currently warded in an isolation room at Central Hospital. He is a close contact of Case 66 and family member of Case 83, and is linked to the cluster at The City Church CountryL.
+
+Case 92
+Case 92 is a 49 year-old male CountryL Citizen who has no recent travel history to CountryJ. He was confirmed to have COVID-19 infection on 26 February morning and is currently warded in an isolation room at Grand Hospital.
+
+Case 116
+Case 116 is a 51 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 5 March morning and is currently warded in an isolation room at Central Hospital. She is linked to the cluster involving a private dinner function at Music Club.
+
+Case 215
+Case 215 is an imported case involving a 60 year-old CountryL Citizen who had been in Thailand from 7 March to 10 March. He is currently warded in an isolation room at East Hospital. He reported onset of symptoms on 13 March and had sought treatment at a general practitioner clinic on the same day. He presented at the emergency department of East Hospital on 13 March, and subsequent test results confirmed COVID-19 infection on 14 March afternoon. Prior to hospital admission, he had gone to work at Cash Box (1 Grand West Central 2). He stays at Mei Ting Street.
+
+Case 196
+Case 196 is a 72 year-old female CountryL Citizen with no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 13 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Cases 107 and 148 and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 156
+Case 156 is a 49 year-old female CountryL Permanent Resident who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at Central Hospital. She is linked to the cluster involving the private dinner function at Music Club.
+
+Case 110
+Case 110 is a 34 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at the Central Hospital. He is linked to the cluster at Land Arts Pte Ltd.
+
+Case 147
+Case 147 is an imported case involving a 65 year-old male CountryG Citizen who arrived in CountryL on 7 March. He was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 143
+Case 143 is a 43 year-old male CountryL Permanent Resident who had been in CountryA from 4 March to 6 March. He is currently warded in an isolation room at West Hospital. He is a family member of Case 132. He reported onset of symptoms on 5 March while he was in Thailand. He returned to CountryL on 6 March night and went directly to West Hospital from Capital Airport. Subsequent test results confirmed COVID-19 infection on 7 March afternoon. He stays at Tang Shan Road.
+
+Case 119
+Case 119 is a 54 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is warded in an isolation room at Public Hospital. He reported onset of symptoms on 27 February and had sought treatment at a general practitioner clinic on the same day, and on 29 February. He presented at the Care Centre at Public Hospital on 1 March and 5 March. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, he had mostly stayed at his home at Colin Road. He is employed by M10 but had not gone to work since onset of symptoms.
+
+Case 26
+Case 26 is a 43 year-old female CountryJ Citizen who arrived in CountryL from Wuhan on 21 January, and is the daughter of Case 13. As she was symptomatic, she was conveyed by ambulance to Central Hospital on the same day as her mother, and immediately isolated. She is currently warded in an isolation room at Central Hospital. Subsequent test results confirmed 2019-nCoV infection on 4 February at about 8pm.
+
+Case 15
+The 15 case is a 48 year-old female CountryL Citizen who travelled to Wuhan with her family. She was one of the CountryL citizens evacuated from Wuhan on 30 January, and arrived in CountryL on the same day. She was asymptomatic when she boarded the flight. Upon arrival at Capital Airport, she was found to have a fever during medical screening, and was conveyed to Central Hospital. She was tested positive for Wuhan coronavirus infection on 31 January at about 2pm. She is currently warded in an isolation room at Central Hospital.
+
+Case 183
+Case 183 is a 25 year-old male CountryL Citizen who had been in CountryI from 29 February to 4 March. He was confirmed to have COVID-19 infection on 12 March morning, and is currently warded in an isolation room at Central Hospital. He had attended a mass religious gathering at a mosque in CountryI, and the CountryI authorities had subsequently reported several confirmed COVID-19 cases linked to the event.
+
+Cases 167
+Case 167 is a 36 year-old female CountryB Citizen who is a CountryL Work Pass holder, and is a family member of Case 178. She had been in the CountryB from 11 February to 17 February. She is currently warded in an isolation room at South Hospital. She reported onset of symptoms on 8 March and had sought treatment at South Hospital on 9 March. Subsequent test results confirmed COVID-19 infection on 10 March afternoon. She is employed as a staff nurse at South Hospital and had been at work prior to hospital admission. She stays at Grand East Street 20.
+
+Case 73
+Case 73 is a 42 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at the Central Hospital. He is linked to the cluster at Grace Church. He reported onset of symptoms on 9 February and sought treatment at a general practitioner clinic on 10 February. As he was identified as a close contact of Case 51, he was served a home quarantine order on 13 February and conveyed to Central Hospital on 14 February. Subsequent test results confirmed COVID-19 infection on 15 February afternoon. Prior to hospital admission, he had attended church service at Grace Church (Tang Shan) (55 Tang Shan Road). He is a regular serviceman in the CountryL Armed Forces but had not gone to work since onset of symptoms. He stays at Lorong 8 Tao Lin.
+
+Case 24
+She is a 33 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at Central Hospital. The case is a tourist guide who had brought tour groups to Yong Shop at 24 Can Road, the same shop of which cases 19 and 20 are employees. She was asymptomatic when she went to Central Hospital on 3 February, where she was immediately isolated. Subsequent test results confirmed 2019-nCoV infection this afternoon. In addition to the above cases, CountryI has also announced this afternoon a case involving a 42 year-old male CountryI national who was in CountryL from 16 to 23 January for a business meeting at Sun Hotel, which involved CountryJ Citizens.  He had onset of symptoms after his return to CountryI, and subsequently tested positive for 2019-nCoV on 3 February. MOH has initiated epidemiological investigations and contact tracing to identify individuals who had close contact with the cases.
+
+Case 17
+The 17 case is a 46 year-old female CountryL Citizen who travelled to Wuhan. She was one of the CountryL citizens evacuated from Wuhan on 30 January, and arrived in CountryL on the same day. She was asymptomatic when she boarded the flight. Upon arrival at Capital Airport, she was found to have a fever during medical screening, and was conveyed to the Central Hospital. She was tested positive for 2019-nCoV infection on 31 January at about 11pm. She is currently warded in an isolation room at Central Hospital.
+
+Case 214
+Case 214 is a 31 year-old male CountryL Citizen with no recent travel history to affected countries and region. He is currently warded in an isolation room at the Central Hospital. He is linked to Case 208. He reported onset of symptoms on 5 March and had sought treatment at a general practitioner clinic on 6 March and 8 March. He presented at Central Hospital on 14 March, and subsequent test results confirmed COVID-19 infection on 14 March afternoon. Prior to hospital admission, he had visited Come Go! (422 South Sky Road), Project 88 at TaiKai (140 TaiKai Street) and CountryL University (455 Clement Road). He stays at Grand West Street 71.
+
+Case 208
+Case 208 is a 30 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 14 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 21
+She is a 43 year-old female CountryG Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at East Hospital. She is the foreign domestic worker of Case 19, and resides at Jalan. She reported onset of symptoms on 2 February. As a close contact of Case 19, she was admitted to East Hospital emergency department on 3 February. Subsequent test results confirmed 2019-nCoV infection this afternoon. She reported that she had not left her place of residence since onset of symptoms.
+
+Case 121
+Case 121 is a 58 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at Central Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 26 February and had sought treatment at a general practitioner clinic on 1 March. As she had attended the private dinner function at Music Club on 15 February, she was referred by MOH to Central Hospital on 5 March, and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, she had mostly stayed at her home at Boon Hwa Drive.
+
+Case 200
+Case 200 is a 61 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 13 March morning and is currently warded in an isolation room at Central Hospital. She is a family member of Case 165.
+
+Case 219
+Case 219 is a 36 year-old male CountryL Citizen with no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Grand Hospital. He is linked to Cases 142 and 211.          
+
+Case 146
+Case 146 is a 67 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 45
+Case 45 is a 3 year-old female CountryL Citizen who was evacuated from Wuhan on 30 January. She was without symptoms when she boarded the flight, and was placed under quarantine upon landing in CountryL. She was referred to People Hospital on 7 February based on initial test results, and was immediately isolated. She was subsequently confirmed to have 2019-nCoV infection on 10 February morning.
+
+Case 14
+The 14 case is a 32 year-old male CountryJ Citizen who is a CountryL Work Pass holder. After a trip to Hubei, he arrived in CountryL from Wuhan on 26 January. He is currently warded in an isolation room at Central Hospital. The case reported that he was asymptomatic during his flight to CountryL. He subsequently developed symptoms on 28 January. He sought medical treatment at a general practitioner clinic on 30 January, and was conveyed by an ambulance to Central Hospital, where he was immediately isolated. Subsequent test results confirmed Wuhan coronavirus infection on 30 January at about 11pm. Prior to hospital admission, the case stayed at his home in Grand East Street 5.
+
+Cases 28
+Cases 28 is a family member of Case 19 who have no recent travel history to CountryJ. Case 28 is a 7 month-old male CountryL Citizen who is the child of Cases 19 and 27. He was tested positive for 2019-nCoV infection on 5 February at about 2pm, and is currently warded in an isolation room at People Hospital.
+
+Case 172
+Case 172 is a 41 year-old female CountryB Citizen who is a CountryL Work Pass Holder, and had been in the CountryB from 27 February to 2 March. She was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 158
+Case 158 is a 52 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 9 March morning, and is currently warded in an isolation room at South Hospital. She is linked to the cluster involving the private dinner function at Music Club.
+
+Case 108
+Case 108 is a 36 year-old female CountryB Citizen who is a CountryL Work Pass holder, and has no recent travel history to CountryJ, CountryS and CountryO. She is a foreign domestic worker employed by Case 101, and works in the same household as Case 102. She was confirmed to have COVID-19 infection on 2 March morning and is currently warded in an isolation room at South Hospital.
+
+Case 202
+Case 202 is an imported case involving a 47 year-old male CountryL Citizen who had been in CountryI from 28 February to 3 March. He is currently warded in an isolation room at Grand Hospital. He had attended a mass religious gathering at a mosque in CountryI, and the CountryI authorities had subsequently reported several confirmed COVID-19 cases linked to the event. He reported onset of symptoms on 3 March and had sought treatment at a general practitioner clinic on 4 March and 5 March. He presented at Grand Hospital on 12 March and subsequent test results confirmed COVID-19 infection on 13 March afternoon. Prior to hospital admission, he had visited Kent Mall (Ka Ling Street 4). He stays at Anchor Drive.
+
+Case 19
+She is a 26 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at East Hospital. She works at Yong Shop at 24 Can Road, a complementary health product shop that primarily serves Chinese tourists. She reported developing sore throat and fever on 29 January, and sought treatment at a general practitioner clinic on the same day. On 30 January, she went to Community Hospital emergency department, and was discharged when her chest x-ray came back negative for pneumonia. She reported that she had not left her home at Nan Lin from 31 January to 2 February. On 3 February, she went to East Hospital. As she was diagnosed with pneumonia this time, she was classified as a suspect case and immediately isolated. Subsequent test results confirmed 2019-nCoV infection on 3 February past 11pm.
+
+Case 6
+Case 6 is a 57 year-old male CountryJ Citizen from Wuhan who arrived in CountryL with his family on 19 January. He is currently warded in an isolation room at National Hospital and his condition is stable. The case reported that he was asymptomatic during the flight to CountryL. He subsequently developed symptoms on 25 January, and self-presented to National Hospital in a private car on 26 January. He was classified as a suspect case and immediately isolated. Subsequent test results confirmed Wuhan coronavirus infection on 27 January at about 11pm. Prior to hospital admission, the case stayed with his family at their home at Pasir Garden.
+
+Case 189
+Case 189 is likely to be an imported case involving a 35 year-old male CountryK Citizen who is a CountryL Work Pass holder, and had been in CountryK from 21 February to 1 March. He is currently warded in an isolation room at the Central Hospital. He reported onset of symptoms on 11 March and had sought treatment at a general practitioner clinic on 12 March, and was referred to Central Hospital on the same day. Subsequent test results confirmed COVID-19 infection on 12 March afternoon. Prior to hospital admission, he had gone to work at Temasek Banking Corporation (1 Temasek Road). He stays at George Road.
+
+Case 63
+57 year-old female CountryL Citizen with no recent travel history to CountryJ. She is linked to the cluster at Grace Church.
+
+Case 115
+Case 115 is a 66 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 5 March morning and is currently warded in an isolation room at West Hospital. She is a family member of Case 114, and is linked to the cluster involving a private dinner function at Music Club.
+
+Case 210
+Case 210 is an imported case involving a 54 year-old male CountryF Citizen who is a CountryL Long Term Visit Pass holder, and had been in CountryF from 27 February to 3 March, and again from 11 March to 12 March, and Switzerland from 3 March to 10 March. He was confirmed to have COVID-19 infection on 14 March morning and is currently warded in an isolation room at Central Hospital.
+
+Case 225
+Case 225 is an imported case involving a 60 year-old male CountryL Citizen, who had been in CountryG from 3 March to 7 March. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Central Hospital. 
+
+Case 90
+Case 90 is a 78 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at the Central Hospital. She is linked to the cluster at The City Church CountryL. She reported onset of symptoms on 9 February and had sought treatment at a general practitioner clinic on 9 February, 17 February and 23 February. She was conveyed in an ambulance to the emergency department at Community Hospital on 23 February, where she was immediately isolated. Subsequent test results confirmed COVID-19 infection on 23 February afternoon. Prior to hospital admission, she had mostly stayed at her home at Bashan Street 11. 
+
+Case 170
+Case 170 is an imported case involving a 57 year-old female CountryG Citizen who had arrived in CountryL on 9 March. She is currently warded in an isolation room at East Hospital. She is a family member of Case 152. She reported onset of symptoms on 6 March while in CountryG, and presented at East Hospital on 9 March after arrival in CountryL. Subsequent test results confirmed COVID-19 infection on 10 March afternoon.
+
+Case 18
+The 18th case is a 32 year-old female CountryJ Citizen who arrived in CountryL from Wuhan on 22 January. She was tested positive for 2019-nCoV infection on 1 February at about 2pm. She is currently warded in an isolation room at Central Hospital. MOH has initiated epidemiological investigations and contact tracing to identify individuals who had close contact with the cases.
+
+Case 182
+Case 182 is an imported case involving a 77 year-old female CountryG Citizen who arrived in CountryL on 9 March. She was confirmed to have COVID-19 infection on 12 March morning, and is currently warded in an isolation room at Harbour Hospital. She is a family member of case 181.
+
+Case 165
+Case 165 is a 32 year-old male CountryL Citizen who had been in CountryC from 15 February to 7 March. He was confirmed to have COVID-19 infection on 10 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 190
+Case 190 is a 50 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 13 March morning, and is currently warded at Central Hospital. He is linked to Case 172.
+
+Case 137
+Case 137 is a 61 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 6 March afternoon and is currently warded in an isolation room at Central Hospital. He is linked to the cluster involving the private dinner function at Music Club.
+
+Case 157
+Case 157 is a 55 year-old female CountryL Permanent Resident who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 9 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Case 137, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 135
+Case 135 is a 39 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 6 March afternoon and is currently warded in an isolation room at East Hospital.
+
+Case 203
+Case 203 is likely to be an imported case involving a 37 year-old female CountryL Citizen who had been in CountryG from 6 March to 8 March. She is currently warded in an isolation room at National Hospital. She reported onset of symptoms on 11 March, and presented at the emergency department of National Hospital on 12 March. Subsequent test results confirmed COVID-19 infection on 13 March afternoon. Prior to hospital admission, she mostly stayed at her home at Pasir Street 48.
+
+Case 163
+Case 163 is a 28 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at Central Hospital. She is linked to Case 142. She reported onset of symptoms on 8 March. As she had been identified as a contact of Case 142, she was referred by MOH to Central Hospital on 9 March. Subsequent test results confirmed COVID-19 infection on 9 March afternoon. Prior to hospital admission, she had visited Fukan Mall (100 Bridge Road) and Recreation Club (40 Grass Park). She stays at Bluehill Road.
+
+Case 184
+Case 184 is a 33 year-old male CountryB Citizen who is a CountryL Work Pass holder, and had been in the CountryB from 24 February to 1 March. He was confirmed to have COVID-19 infection on 12 March morning, and is currently warded in an isolation room at Central Hospital. He is linked to Case 172.
+
+Case 155
+Case 155 is a 45 year-old female CountryI Citizen who is a CountryL Work Pass holder, and who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 9 March morning and is currently warded in an isolation room at Central Hospital. She is a contact of Case 128, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 123
+Case 123 is likely to be an imported case involving a 42 year-old male CountryL Citizen who had been in South Africa from 14 February to 17 February and CountryC from 22 February to 24 February. He reported onset of symptoms on 27 February and had sought treatment at a general practitioner clinic on the same day, and on 2 March and 4 March. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, he had mostly stayed at his home at Farvale Drive. He is employed by CountryL Airlines as a cabin crew but had not gone to work since onset of symptoms.
+
+Case 66
+29 year-old male CountryL Citizen with no recent travel history to CountryJ. He is linked to the cluster at Grace Church.
+
+Case 168
+Case 168 is a 48 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at Grand Hospital. He reported onset of symptoms on 1 March and had sought treatment at two general practitioner clinics on 2 March, 5 March and 8 March. He was referred to the emergency department of Grand Hospital on 8 March, and subsequent test results confirmed COVID-19 infection on 10 March afternoon. Prior to hospital admission, he had mostly stayed at his home at River Street.
+
+Case 152
+Case 152 is an imported case involving a 67 year-old male CountryG Citizen who arrived in CountryL on 7 March. He is currently warded in an isolation room at East Hospital. He reported onset of symptoms on 28 February while he was in CountryG, and had sought treatment at a hospital in Jakarta on 2 March. He presented at East Hospital on 7 March. Subsequent test results confirmed COVID-19 infection on 8 March afternoon.
+
+Case 105
+Case 105 is a 46 year-old male CountryL Citizen who has no recent travel history to CountryJ, CountryS and CountryO. He is currently warded in an isolation room at Central Hospital. He is linked to the cluster at Land Arts Pte Ltd. As he is linked to the cluster at Land Arts Pte Ltd and had reported not having any recent illness, he was issued a home quarantine order on 27 February. On 29 February, he revealed that he had onset of symptoms on 26 February and had sought treatment at a general practitioner clinic on the same day. He was immediately conveyed to Central Hospital in an ambulance and was isolated. Subsequent test results confirmed COVID-19 infection on 1 March morning. Prior to hospital admission, he had attended a business meeting at Tao Ling Hub (6 Tao Ling Drive) with Case 95. He stays at Upper Batok Road.
+
+Case 11
+The 11th case is a 32 year-old female CountryJ Citizen from Wuhan who arrived in CountryL on 22 January. She was a travelling companion of the fourth confirmed case. She is currently warded in an isolation room at the Central Hospital. The case reported that she was asymptomatic during her flight to CountryL. She was identified as a close contact of the fourth confirmed case and had been quarantined from 26 January. She developed symptoms on 27 January, and was admitted to Central Hospital. Subsequent test results confirmed Wuhan coronavirus infection on 29 January at about 11pm.
+
+Case 29
+Case 29 is a 45 year-old CountryL Citizen who has no recent travel history to mainland CountryJ. He was admitted to Capital Hospital on 3 February. Subsequent test results confirmed 2019-nCov infection on 5 February at about 11pm. He has been transferred to Central Hospital for further treatment and is currently warded in an isolation room. He reported that he had developed a fever on 28 January, and visited a general practitioner clinic the next day. He sought treatment at another general practitioner clinic on 30 January before being admitted to Capital Hospital on 3 February. Epidemiological investigations and contact tracing are ongoing to identify individuals who had close contact with the case, and to establish any link he may have had with confirmed cases in CountryL or travellers from mainland CountryJ. We are interviewing the patient and his close contacts, and investigating the locations he had recently been to.
+
+Case 62
+Case 62 is a 43 year-old female CountryL Citizen with no recent travel history to CountryJ. She is currently warded in an isolation room at the East Hospital. She is linked to the cluster at Grace Church. She reported onset of symptoms on 9 February, and sought treatment at a general practitioner clinic the next day. She went to East Hospital on 12 February and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 13 February afternoon. Prior to hospital admission, she reported that he had mostly stayed at home at Tanjong Road, except to seek medical treatment.
+
+Case 185
+Case 185 is a 36 year-old male CountryL Citizen who had been in CountryI from 22 February to 23 February. He was confirmed to have COVID-19 infection on 12 March morning and is currently warded in an isolation room at Central Hospital. He is linked to case 142.
+
+Case 114
+Case 114 is a 64 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is warded in an isolation room at the West Hospital. He is a family member of Case 115, and is linked to the cluster involving a private dinner function at Music Club. He reported onset of symptoms on 28 February and had sought treatment at a general practitioner clinic on 29 February. He presented at the emergency department at West Hospital on 3 March. Subsequent test results confirmed COVID-19 infection on 4 March afternoon. Prior to hospital admission, he had mostly stayed at his home in the Westgate Avenue area.
+
+Case 220
+Case 220 is an imported case involving a 50 year-old male CountryL Permanent Resident who had been in CountryC from 10 March to 12 March. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room in Central Hospital.  
+
+Case 179
+Case 179 is a 59 year-old female CountryL Citizen who had been in CountryI on 22 February. She is currently warded in an isolation room at West Hospital. She is a contact of Case 121 and is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 27 February and had sought treatment at a general practitioner clinic on 29 February, 9 March and 11 March. She was referred to West Hospital on 11 March, and subsequent test results confirmed COVID-19 infection on 11 March afternoon. Prior to hospital admission, she had mostly stayed at her home at Grand West Street 70.
+
+Cases 27
+Cases 27 is a family member of Case 19 who have no recent travel history to CountryJ. Case 27 is a 49 year-old male CountryL Citizen who is the husband of Case 19. He was tested positive for 2019-nCoV infection on 5 February at about 2pm, and is currently warded in an isolation room at Central Hospital.
+
+Case 142
+Case 142 is a 31 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at South Hospital. He is a family member of Cases 139 and 140, and is linked to the cluster involving the private dinner function at Music Club. He reported onset of symptoms on 5 March, and presented at South Hospital on 6 March. Subsequent test results confirmed COVID-19 infection on 7 March afternoon. Prior to hospital admission, he had gone to work at First Digital CountryL (100 Robin Road) and visited The Apex Mall (12 Kai Lang Avenue). He stays at Grand West Street 81.
+
+Cases 178
+Case 178 is an imported case involving a 38 year-old male CountryB Citizen who is a CountryL Work Pass holder. He had been in the CountryB from 11 February to 19 February, and again from 23 February to 2 March to visit a relative with pneumonia who has since passed on. He was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at South Hospital. He is a family member of Case 167.
+
+Case 186
+Case 186 is a 65 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 12 March morning and is currently warded in an isolation room at Central Hospital. He is linked to Case 166.
+
+Case 222
+Case 222 is an imported case involving a 43 year-old male CountryC Citizen who is a CountryL Work Pass holder, and had been to CountryC from 28 February to 7 March and 9 March to 10 March, CountryA from 7 March to 9 March, and the CountryB from 12 March to 13 March. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 174
+Case 174 is a 68 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital. She is linked to the cluster involving the private dinner function at Music Club.
+
+Case 126
+Case 126 is a 79 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 5 March afternoon and is currently warded in an isolation room at Central Hospital. As part of enhanced precautions, patients who have acute respiratory infection will be placed in wards with greater separation between patients to minimise the risk of infection. Case 126 had been in the same ward as Case 109 at East Hospital from 29 February to 1 March, before Case 109 had been confirmed to have COVID-19 infection. Case 126 had been quarantined since 4 March.
+
+Case 164
+Case 164 is a 55 year-old female CountryL Permanent Resident who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 10 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 201
+Case 201 is a 51 year-old female CountryL Citizen with no recent travel history to affected countries and region. She is currently warded in an isolation room at South Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 5 March and had sought treatment at a general practitioner clinic on the same day. She presented at South Hospital on 7 March and subsequent test results confirmed COVID-19 infection on 13 March afternoon. Prior to hospital admission, she mostly stayed at her home at Lang Ying Lane.
+
+Case 129
+Case 129 is a 69 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 6 March morning and is currently warded in an isolation room at South Hospital. She is a family member of Case 130, and is linked to the cluster involving a private dinner function at Music Club.
+
+Case 221
+Case 221 is a 30 year-old female CountryB Citizen who is a CountryL Work Pass holder, and has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 15 March morning and is currently warded in an isolation room at Central Hospital. She is a contact of Case 204. She is employed as an officer at MY Little Preschool Ltd (52 Colin Street). 
+
+Case 140
+Case 140 is a 64 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at South Hospital. She is a family member of Cases 139 and 142, and is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 28 February and had sought treatment at a general practitioner clinic on 29 February and 5 March. She presented at South Hospital on 6 March, and subsequent test results confirmed COVID-19 infection on 7 March afternoon. Prior to hospital admission, she had gone to work Land Logistics Pte Ltd (30 Grand Port Road). She stays at Grand West Street 81.
+
+Case 104
+Case 104 is a 28 year-old female CountryN Citizen who has no recent travel history to CountryJ, CountryS and CountryO but had been in CountryG from 21 February to 23 February. She is a foreign domestic worker employed by Case 103. She is currently warded in an isolation room at Central Hospital. As she had been identified as a close contact of Case 93 and had reported not having any recent illness, she was issued a home quarantine order on 26 February. On 29 February, she revealed that she had onset of symptoms on 23 February. She was immediately conveyed to Central Hospital in an ambulance and was isolated. Subsequent test results confirmed COVID-19 infection on 1 March morning. Prior to hospital admission, she had mostly stayed at home at Batok Road 30.
+
+Case 148
+Case 148 is a 68 year-old female CountryL Citizen who had been in CountryG from 11 February to 14 February. She was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Case 107, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 212
+Case 212 is an imported case involving a 63 year-old male CountryG Citizen. He was confirmed to have COVID-19 infection on 14 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 171
+Case 171 is an imported case involving a 28 year-old male CountryL Citizen who had been in CountryC from 25 February to 1 March, and CountryA from 1 March to 6 March. He was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 79
+Case 79 is a 32 year-old female CountryI Citizen who is a CountryL Work Pass holder, and has no recent travel history to CountryJ. She is currently warded in an isolation room at Central Hospital. She is a family member of Case 72. She reported onset of symptoms on 12 February. As she had been identified as a close contact of Case 72, she was placed under home quarantine from 15 February. She was conveyed to Central Hospital via an ambulance on 17 February. Subsequent test results confirmed COVID-19 infection on 17 February afternoon. Before she was served a Quarantine Order, she had gone to work at DrinkXchange at Hai Jun (8 Hai Jun Street). Her job function at DrinkXchange does not entail handling of food. She stays at Hwa Kee Crescent. 
+
+Case 80
+Case 80 is a 37 year-old female CountryL Citizen with no recent travel history to CountryJ. She was confirmed to have COVID-19 infection on 18 February morning, and is currently warded in an isolation room at the West Hospital. She is linked to Case 66. She works at West Hospital in an administrative function, and had not interacted with patients since onset of symptoms.  
+
+Case 176
+Case 176 is an imported case involving a 38 year-old female CountryH Citizen who had been in CountryO from 24 February to 4 March, and the CountryH from 4 March to 8 March. She was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 98
+Case 98 is a 26 year-old male CountryL Permanent Resident who has no recent travel history to CountryJ, CountryS and CountryO. He was confirmed to have COVID-19 infection on 28 February morning and is currently warded in an isolation room at Central Hospital. He is linked to Cases 93, 95 and 97. 
+
+Case 194
+Case 194 is an imported case involving a 27 year-old female CountryJ Citizen who is a CountryL Work Pass holder, and had been in CountryF from 1 March to 3 March, CountryQ from 4 March to 6 March, Austria from 7 March to 8 March, and CountryR from 9 March to 10 March. She was confirmed to have COVID-19 infection on 13 March afternoon, and is currently warded in an isolation room at Central Hospital. She is linked to Case 193.   
+
+Case 132
+Case 132 is likely to be an imported case involving a 38 year-old female CountryL Permanent Resident who had been in the CountryH from 23 February to 27 February. She is warded in an isolation room at the West Hospital. She reported onset of symptoms on 29 February and had sought treatment at two general practitioner clinics on 29 February, 4 March and 5 March. She presented at the emergency department at West Hospital on 5 March. Subsequent test results confirmed COVID-19 infection on 6 March afternoon. Prior to hospital admission, she had visited Linden Medical Centre (1 Oxford Lane) for an unrelated condition. She stays at Tang Shan Road.
+
+Case 59
+Case 59 is a 65 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at the Central Hospital. He reported onset of symptoms on 7 February and sought treatment at South Hospital emergency care clinic on 10 February. He went to the emergency department at North Hospital on 12 February and was conveyed by ambulance to Central Hospital on 13 February. Subsequent test results confirmed COVID-19 infection on 13 February afternoon. Prior to hospital admission, he had mostly stayed home at Alison Road except to seek medical treatment. He works at a private hospital in CountryL, and was not at work since the onset of symptoms. He has no known interactions with past cases. 
+
+Case 65
+62 year-old female CountryL Citizen with no recent travel history to CountryJ. She is a family member of Case 50 and Case 55. 
+
+Case 85
+Case 85 is a 37 year-old male CountryJ Citizen who is a CountryL Work Pass holder, and has no recent travel history to CountryJ. He was confirmed to have COVID-19 infection on 20 February morning, and is currently warded in an isolation room at the Central Hospital.
+
+Case 187
+Case 187 is a 49 year-old male CountryL Citizen who had been in CountryI from 28 February to 2 March. He was confirmed to have COVID-19 infection on 12 March morning and is currently warded in an isolation room at Central Hospital. He had attended a mass religious gathering at a mosque in CountryI, and the CountryI authorities had subsequently reported several confirmed COVID-19 cases linked to the event.
+
+Case 216
+Case 216 is an imported case involving a 25 year-old CountryL Citizen who had been in CountryF from 28 February to 1 March, and again on 5 March to 6 March, and CountryQ from 1 March to 5 March. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 9 March, and had sought treatment at a general practitioner clinic on 10 March and 12 March. He was referred to Central Hospital on 12 March, and subsequent test results confirmed COVID-19 infection on 14 March afternoon. Prior to hospital admission, he had gone to work at SA Asia (20 Pasir Road). He stays at Batok Avenue 3.
+
+Case 47
+Case 47 is a 35 year-old male CountryP Citizen who is a CountryL Work Pass holder, and has no recent travel history to CountryJ. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 6 February, and sought treatment at a general practitioner clinic on 7 February. He went to Central Hospital on 10 February, and test results confirmed 2019-nCoV infection on 10 February afternoon. Prior to hospital admission, he had gone to work at 8 Great Heights, the same location where Case 42 had worked. He reported that he had stayed at his rental apartment at Jason Road since the onset of symptoms, except to visit the general practitioner clinic.
+
+Case 180
+Case 180 is an imported case involving a 72 year-old male CountryL Citizen who had been in the CountryD from 27 February to 10 March. He was confirmed to have COVID-19 infection on 12 March morning, and is currently warded at the Central Hospital.
+
+Case 191
+Case 191 is likely to be an imported case involving a 26 year-old female CountryI Citizen who is a CountryL Work Pass holder, and had been in CountryF from 24 February to 28 February, and CountryI from 28 February to 3 March. She was confirmed to have COVID-19 infection on 13 March morning, and is currently warded at Central Hospital.
+
+Case 13
+The 13 confirmed case was announced on 30 January. The case is a 77 year-old female CountryJ Citizen who arrived in CountryL from Wuhan on 21 January. She is currently warded in an isolation room at the Central Hospital. The case reported that she was asymptomatic during her flight to CountryL. She was a close contact of the second confirmed case, and multiple attempts were made to contact her immediately. She was located on 28 January, and reported having developed symptoms on the same day. She was conveyed by an ambulance to Central Hospital, where she was immediately isolated. Subsequent test results confirmed Wuhan coronavirus infection on 30 January at about 2pm. Prior to hospital admission, the case stayed at Collection Hotel Downtown. She indicated that she had visited Capital Airport and Jewel, and had travelled on private transport and taxi. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low.
+
+Case 107
+Case 107 is a 69 year-old female CountryL Citizen who has no recent travel history to CountryJ, CountryS and CountryO but had been in CountryG from 11 February to 14 February. She is currently warded in an isolation room at the Central Hospital. She is linked to Case 94. She reported onset of symptoms on 16 February and had sought treatment at two general practitioner clinics on 20 February, 23 February and 25 February. She presented at Community Hospital on 27 February and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 1 March afternoon. Prior to hospital admission, she had mostly stayed at her home at Bashan Street 13.
+
+Case 64
+49 year-old male CountryL Citizen with no recent travel history to CountryJ. 
+
+Case 188
+Case 188 is likely to be an imported case involving a 52 year-old male CountryL Citizen who had been in CountryA from 23 February to 1 March. He is currently warded in an isolation room at North Hospital. He reported onset of symptoms on 7 March and had sought treatment at two general practitioner clinics on 7 March and 9 March. He presented at North Hospital on 12 March, and subsequent test results confirmed COVID-19 infection on 12 March afternoon. Prior to hospital admission, he visited at Southpoint City (900 Wushun Avenue 2) and 741 Wushun Avenue 5. He stays at Wushun Street 51.
+
+Case 145
+Case 145 is a 68 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Cases 107 and 134, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 25
+Case 25, a 42 year-old male CountryL Citizen who has no recent travel history to CountryJ, is the husband of Case 24. He is currently warded in an isolation room at Central Hospital. The case reported that he developed a fever on 24 January. He visited Houshan Polyclinic with his wife on 30 January, and self-presented at Central Hospital on 3 February, where he was immediately isolated. Subsequent test results confirmed 2019-nCoV infection on 4 February at about 8pm. Prior to hospital admission, the case stayed at his home at Linda Green, and worked at Jewellery Company at Linda Drive which was visited by the same tour group from Guangxi. He indicated that he had visited Pasir Hawker Centre and had travelled by public transport. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low.
+
+Case 159
+Case 159 is a 60 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He was confirmed to have COVID-19 infection on 9 March morning, and is currently warded in an isolation room at South Hospital. He is linked to the cluster involving the private dinner function at Music Club.
+
+Case 106
+Case 106 is a 56 year-old male CountryO Citizen who is a CountryL Work Pass holder, and has no recent travel history to CountryJ, CountryS and CountryO. He was confirmed to have COVID-19 infection on 1 March morning and is currently warded in an isolation room at Central Hospital.
+
+Case 217
+Case 217 is an imported case involving a 33 year-old CountryA Citizen who is a CountryL Long Term Pass holder, and had been in CountryA from 9 March to 13 March. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 13 March, and was referred to Central Hospital on the same day. Subsequent test results confirmed COVID-19 infection on 14 March afternoon. He stays in the Mount Alexander area.
+
+Case 38
+Case 38 is a 53 year-old female CountryL Citizen with no recent travel history to CountryJ. She is currently warded in an isolation room at Central Hospital. She reported onset of symptoms on 3 February and visited Chu Kang Polyclinic on 4 February. She was admitted to Central Hospital on 7 February. Subsequent test results confirmed 2019-nCoV infection on 8 February morning. Prior to hospital admission, she had visited The City Church CountryL, Marina Sands, CountryJ town and Plaza Tang and had travelled by public transport. She stays at Chu Kang Avenue 3.
+
+Case 33
+Case 33 is a 38 year-old female CountryL Citizen who has no recent travel history to mainland CountryJ, but who had been in CountryI from 22 to 29 January. She is currently warded in an isolation room at Grand Hospital. She reported that she had developed symptoms on 30 January, and went to the emergency department at Grand Hospital on 2 February where she was admitted. Subsequent test results confirmed 2019-nCoV infection on 6 February at about 11pm.
+
+Case 169
+Case 169 is a 41 year-old male CountryL Citizen who had been in CountryC from 15 February to 7 March. He is currently warded in an isolation room at North Hospital. He is a contact of Cases 165, 173 and 175, and is one of the imported cases who had been in CountryC on official duty. He reported onset of symptoms on 9 March and presented at the emergency department of North Hospital on 10 March. Subsequent test results confirmed COVID-19 infection on 10 March afternoon. Prior to hospital admission, he had gone to the Health Promotion Board for an unrelated matter. He is a CountryL Air Force serviceman but had not gone to work since returning to CountryL. He stays at Wushun Street 81.
+
+Case 16
+The 16 confirmed case was announced on 31 January. The case is a 41 year-old male CountryJ Citizen who arrived in CountryL from Wuhan on 22 January. He is currently warded in an isolation room at the East Hospital. The case reported that he was asymptomatic during his flight to CountryL. He subsequently developed symptoms on 23 January and reported that he had stayed at his home at Nation Road until 29 January, when he took a taxi to East Hospital. He was classified as a suspect case and immediately isolated. Subsequent test results confirmed 2019-nCoV infection on 31 January at about 2pm.
+
+Case 87
+Case 87 is a 34 year-old male CountryL Citizen who was among the group of CountryL citizens who were evacuated from Wuhan on 9 February. He was without symptoms when he boarded the flight and was put under quarantine upon landing in CountryL. He is currently warded in an isolation room at the Central Hospital. He is linked to Case 76. All CountryL citizens evacuated from Wuhan were tested for COVID-19 as an added precaution. He was confirmed to have COVID-19 infection on 21 February afternoon.
+
+Case 150
+Case 150 is a 54 year-old female CountryL Permanent Resident who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 8 March morning, and is currently warded in an isolation room at Central Hospital. She is a contact of Cases 115 and 134, and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 97
+Case 97 is a 42 year-old female CountryL Permanent Resident who has no recent travel history to CountryJ, CountryS and CountryO. She is currently warded in an isolation room at the Central Hospital. She is linked to Cases 93 and 95. She reported onset of symptoms on 20 February and had sought treatment at a general practitioner clinic on the same day. As she had been identified as a close contact of Case 93, she was referred by MOH to Central Hospital on 27 February and immediately isolated. Subsequent test results confirmed COVID-19 infection on 27 February afternoon. Prior to hospital admission, she had gone to work at Land Arts Pte Ltd and attended a business meeting at the Agency for Baby Care (1 Max Road). She stays at Chu Kang Sorth 1. 
+
+Case 207
+Case 207 is an imported case involving a 42 year-old female CountryL Citizen who had been in the CountryH from 6 March to 11 March. She was confirmed to have COVID-19 infection on 14 March morning and is currently warded in an isolation room at Central Hospital.
+
+Case 224
+Case 224 is a 48 year-old male CountryL Citizen, who had been in CountryI from 1 March to 4 March. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Central Hospital. He is a contact of Case 117 and is linked to the cluster involving the private dinner function at Music Club.
+
+Case 111
+Case 111 is a 44 year-old male CountryL Permanent Resident who has no recent travel history to affected countries and regions but who had been in CountryI from 18 February to 21 February. He is currently warded in an isolation room at the West Hospital. He reported onset of symptoms on 24 February and had sought treatment at a general practitioner clinic on the same day and on 28 February. He presented at Grand Hospital on 27 February and West Hospital on 3 March. Subsequent test results confirmed COVID-19 infection on 3 March afternoon. Prior to hospital admission, he had mostly stayed at his home at Compass Street.
+
+Case 35
+Case 35 is a 66 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at the East Hospital. He reported onset of symptoms on 30 January, and had visited Bukit Polyclinic on 31 January. He was admitted to East Hospital on 6 February. Subsequent test results confirmed 2019-nCoV infection on 7 February afternoon. Prior to hospital admission, he worked as a taxi driver and had largely stayed at his home at Hender Crescent after onset of symptoms, except to visit Bluehill Market and a hawker centre at City Mall for meals.
+
+Case 39
+Case 39 is a 52 year-old male CountryL Citizen with no recent travel history to CountryJ, but who had travelled to CountryI from 23 January to 2 February. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 29 January, and had visited two general practitioner clinics on 3 and 5 February respectively. He was admitted to Central Hospital on 6 February. Subsequent test results confirmed 2019-nCoV infection on 8 February morning. Prior to hospital admission, he had attended the same private business meeting as Cases 30 and 36 at Sun Hotel CountryL from 20 to 22 January, and stays at Grand West Central.
+
+Case 40
+Case 40 is a 38 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 30 January, and had visited a general practitioner clinic on the same day. As he works at Yong Shop (24 Can Road), he was identified as a close contact of Cases 19 and 20, and placed under home quarantine on 4 February. He was admitted to Central Hospital on 7 February. Subsequent test results confirmed 2019-nCoV infection on 8 February morning. Prior to hospital admission, he went to work at Yong Shop and stays at North Street.
+
+Case 139
+Case 139 is a 77 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at South Hospital. He is a family member of Cases 140 and 142, and is linked to the cluster involving the private dinner function at Music Club. He reported onset of symptoms on 3 March and had sought treatment at a general practitioner clinic on 5 March. He presented at South Hospital on 6 March, and subsequent test results confirmed COVID-19 infection on 7 March afternoon. Prior to hospital admission, he had mostly stayed at his home at Grand West Street 81.
+
+Case 125
+Case 125 is a 66 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 6 March morning and is currently warded in an isolation room at Central Hospital. She is a family member of Case 128, and is linked to the cluster involving a private dinner function at Music Club.
+
+Case 124
+Case 124 is likely to be an imported case involving a 34 year-old female CountryL Permanent Resident who had been in CountryF from 27 February to 5 March. She was confirmed to have COVID-19 infection on 6 March morning and is currently warded in an isolation room at Central Hospital.
+
+Case 144
+Case 144 is a 59 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at South Hospital. She is a contact of Case 140, and is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 3 March and had sought treatment at a general practitioner clinic on the same day, and on 5 March. She presented to South Hospital on 7 March, and subsequent test results confirmed COVID-19 infection on 7 March afternoon. She is a hairdresser at her home at Grand West Street 74, and had attended to customers after onset of symptoms.
+
+Case 89
+Case 89 is a 44 year-old male CountryL Permanent Resident who has no recent travel history to CountryJ. He was confirmed to have COVID-19 infection on 22 February morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 162
+Case 162 is a 29 year-old male CountryL Citizen who had been in CountryG from 29 February to 2 March. He is currently warded in an isolation room at Central Hospital. He is linked to Case 142. He reported onset of symptoms on 7 March. As he had been identified as a contact of Case 142, he was referred by MOH to Central Hospital on 9 March. Subsequent test results confirmed COVID-19 infection on 9 March afternoon. Prior to hospital admission, he had visited a shop at 26 Jalan Road. He stays at Kim Dun Road.
+
+Case 113
+Case 113 is an imported case involving a 41 year-old male CountryC Citizen who is a CountryL Work Pass holder. He has no recent travel history to affected countries and regions but had been in CountryC, CountryA and the CountryH between 8 February and 3 March. He is currently warded in an isolation room at the Central Hospital. He reported onset of symptoms on 3 March during his flight on CountryH Airlines from CountryH to CountryL. He presented at Central Hospital on 4 March. Subsequent test results confirmed COVID-19 infection on 4 March afternoon. Prior to hospital admission, he had visited Harbour Hospital for an unrelated matter. He stays in the Mount Farrer area.
+
+Case 36
+Case 36 is a 39 year-old female CountryL Permanent Resident with no recent travel history to CountryJ but had been in Johor Bahru from 25 to 28 January. She is currently warded in an isolation room at Central Hospital. She reported onset of symptoms on 24 January, and had visited a general practitioner clinic on 1 February. She was isolated and admitted to People Hospital on 4 February. Subsequent test results confirmed 2019-nCoV infection on 7 February afternoon. Prior to hospital admission, she had attended the same private business meeting as Cases 30 and 39 at City Mall CountryL from 20 to 22 January, and visited a family member at South Hospital. She stays at Batok Street 15.
+
+Case 218
+Case 218 is a 54 year-old female CountryL Citizen with no recent travel history to affected countries and regions. She is currently warded in an isolation room at the West Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 2 March, and had sought treatment at two general practitioner clinics on 2 March, 3 March, 4 March, 6 March and 8 March. She presented at West Hospital on 9 March, and subsequent test results confirmed COVID-19 infection on 14 March afternoon. Prior to hospital admission, she mostly stayed at her home at Pending Street except to seek medical treatment.
+
+Case 141
+Case 141 is a 67 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at South Hospital. He reported onset of symptoms on 1 March and had sought treatment at a general practitioner clinic on 3 March and 6 March. He was conveyed in an ambulance to South Hospital on 6 March. Subsequent test results confirmed COVID-19 infection on 7 March afternoon. Prior to hospital admission, he had gone to work at Nan Shan University (NSU) Innovation Centre (10 Nan Shan Drive) as a cleaning staff employed by NSU cleaning services vendor. He stays at Grand West Street 60.
+
+Case 86
+Case 86 is a 26 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at South Hospital. He is linked to Case 82. He reported onset of symptoms on 14 February and had sought treatment at two general practitioner clinics on 16 February and 18 February. He went to the emergency department at South Hospital on 19 February and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 20 February afternoon. Prior to hospital admission, he had mostly stayed at his home at Batok Wast Avenue 1. He is a student at CountryL Institute of Technology, but had not gone to school since onset of symptoms.
+
+Case 20
+She is a 47 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at the Central Hospital. She is a colleague of Case 19 and stays at Houshan Street 6. She reported onset of symptoms on 25 January. On 3 February, she went to Central Hospital. Given that she is a colleague of Case 19, she was classified as a suspect case and immediately isolated. Subsequent test results confirmed 2019-nCoV infection this morning.
+
+Case 223
+Case 223 is an imported case involving a 59 year-old male CountryL Citizen, and had been in the CountryD from 28 February to 7 March and CountryB from 7 to 13 March. He was confirmed to have COVID-19 infection on 15 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 213
+Case 213 is an imported case involving a 40 year-old male CountryL Citizen who had been in CountryG from 3 March to 11 March. He is currently warded in an isolation room at Grand Hospital. He reported onset of symptoms on 7 March while in CountryG. He presented at the emergency department of Grand Hospital on 13 March. Subsequent test results confirmed COVID-19 infection on 14 March afternoon. He stays at Sun South Avenue 3.
+
+Case 34
+Case 34 is a 39 year-old female CountryL Citizen with no recent travel history to CountryJ. She is currently warded in an isolation room at the Central Hospital. She reported onset of symptoms on 27 January, and had visited two general practitioner clinics on 27 January and 1 February respectively. As she works at Yong Shop, she was identified as a close contact of Cases 19 and 20, and placed under home quarantine on 4 February. She was admitted to Central Hospital on 6 February, and subsequent test results confirmed 2019-nCoV infection on 7 February afternoon. Prior to hospital admission, she had gone to work at Yong Shop, and stays at Ming Road.
+
+Case 75
+Case 75 is a 73 year-old female CountryL Citizen with no recent travel history to CountryJ. She is a family member of Case 41 and had been under quarantine since 7 February. She was confirmed to have COVID-19 infection on 16 February morning and is currently warded in an isolation room at Central Hospital.
+
+Case 195
+Case 195 is an imported case involving a 41 year-old male CountryL Citizen who had been in the CountryD from 4 February to 17 February, and Canada from 17 February to 9 March. He was confirmed to have COVID-19 infection on 13 March morning, and is currently warded in an isolation room at Central Hospital.
+
+Case 173
+Case 173 is a 32 year-old male CountryL Citizen who had been in CountryC from 15 February to 7 March. He was confirmed to have COVID-19 infection on 11 March morning, and is currently warded in an isolation room at Central Hospital. He is a CountryL Air Force serviceman, and is a contact of Cases 165, 169 and 175. He is one of the imported cases who had been in CountryC on official duty. He had not gone to work since returning to CountryL.
+
+Case 88
+Case 88 is a 32 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is currently warded in an isolation room at Central Hospital. She is linked to Case 66. She reported onset of symptoms on 16 February and had sought treatment at a general practitioner clinic on 17 February. As she had been identified as a contact of Case 66, she was referred by MOH to Central Hospital on 21 February. Subsequent test results confirmed COVID-19 infection on 21 February afternoon. Prior to hospital admission, she had mostly stayed at her home at Honglin Street 91.
+
+Case 197
+Case 197 is an imported case involving a 32 year-old male CountryL Citizen who had been in CountryI from 28 February to 2 March. He was confirmed to have COVID-19 infection on 13 March morning and is currently warded in an isolation room at Central Hospital. He had attended a mass religious gathering at a mosque in CountryI, and the CountryI authorities had subsequently reported several confirmed COVID-19 cases linked to the event.
+
+Case 193
+Case 193 is an imported case involving a 28 year-old male CountryI Citizen who is a CountryL Work Pass holder, and had been in CountryF from 1 March to 3 March, CountryQ from 4 March to 6 March, Austria from 7 March to 8 March, and CountryR from 9 March to 10 March. He was confirmed to have COVID-19 infection on 13 March morning, and is currently warded in an isolation room at Central Hospital. He is linked to Case 194.
+
+Case 12
+The 12th confirmed case is a 38 year-old female CountryJ Citizen from Wuhan who arrived in CountryL with her family on 22 January. She is currently warded in an isolation room at the Central Hospital. The case reported that she was asymptomatic during her flight to CountryL. She subsequently developed symptoms on 26 January. She took a taxi to Community Hospital on 29 January, and was classified as a suspect case and immediately isolated at Central Hospital. Subsequent test results confirmed Wuhan coronavirus infection on 29 January at about 11pm. Prior to hospital admission, the case stayed at Village Hotel (10 Art Avenue), Hotel 66 (21 Lorong Lin) and Home View Hotel (12 Lorong Lin). She indicated that she had visited Oxford Road and Tao Lin, and had travelled by taxi. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low.
+
+Case 131
+Case 131 is a 65 year-old male CountryL Citizen who has no recent travel history to affected countries and regions. He is currently warded in an isolation room at South Hospital. He is linked to the cluster involving the private dinner function at Music Club. He reported onset of symptoms on 2 March and had sought treatment at a general practitioner clinic on the same day and on 5 March. He presented at South Hospital on 5 March. Subsequent test results confirmed COVID-19 infection on 6 March afternoon. Prior to hospital admission, he had gone to work as a delivery personnel at Guan Kee (1 Pendan Crescent), and had visited Peach Garden Zone 3 Residents Committee (30 Gardens Road). He stays at Pendan Gardens.
+
+Case 211
+Case 211 is a 36 year-old female CountryB Citizen who is a CountryL Long Term Visit Pass holder. She was confirmed to have COVID-19 infection on 14 March morning, and is currently warded in an isolation room at Central Hospital. She is linked to Case 142.
+
+Case 118
+Case 118 is a 34 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at the West Hospital. She is a family member of Cases 114 and 115, and is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 29 February and had sought treatment at Wushun Polyclinic on 2 March. She presented at the emergency department at West Hospital on 4 March. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, she had mostly stayed at home in the Westgate Avenue area.
+
+Case 37
+Case 37 is a 55 year-old male CountryL Citizen with no recent travel history to CountryJ. He is currently warded in an isolation room at Central Hospital. He reported onset of symptoms on 30 January, and had visited two general practitioner clinics on 1 February and 3 February respectively. He was admitted to South Hospital on 6 February, and transferred to Central Hospital on 8 February. Subsequent test results confirmed 2019-nCoV infection on 7 February afternoon. Prior to hospital admission, he worked as a private hire car driver and stays at Grand Street 32.
+
+Case 32
+Case 32 is a 44 year-old female CountryL Citizen who has no recent travel history to mainland CountryJ. She is currently warded in an isolation room at the Central Hospital. She reported onset of symptoms on 2 February and was admitted to City Hospital on 5 February. Subsequent test results confirmed 2019-nCoV infection on 6 February at about 11pm. Prior to hospital admission, she worked at Tao Lin Junior College, but had not interacted with her colleagues and students after onset of symptoms. She stays at Alison Road and had visited Capital Airport and CountryL Zoo.
+
+Case 120
+Case 120 is a 63 year-old female CountryL Citizen who has no recent travel history to affected countries and regions. She is currently warded in an isolation room at the Central Hospital. She is linked to the cluster involving the private dinner function at Music Club. She reported onset of symptoms on 2 March and had sought treatment at a general practitioner clinic on 3 March. As she had attended the private dinner function at Music Club on 15 February, she was referred by MOH to Central Hospital on 5 March, and was immediately isolated. Subsequent test results confirmed COVID-19 infection on 5 March afternoon. Prior to hospital admission, she had visited Boon Hwa Shopping Centre (110 Boon Hwa Place). She stays at Grand West Street 65.
+
+Case 31
+The case is a 55 year-old male CountryL Citizen with no recent travel history to CountryJ, but had been in CountryI on 6, 11 and 17 January 2020. He is currently warded in an isolation room at National Hospital. He reported onset of symptoms on 23 January, and had visited a general practitioner clinic on the same day. He visited another general practitioner clinic on 28 January. Subsequent test results confirmed 2019-nCoV infection on 6 February at about 11pm. He stays at Temp Street 24. Prior to hospital admission, he had been to The City Church CountryL (15 Tao Lin Road) and had gone visiting family and friends during Chinese New Year.
+
+Case 91
+Case 91 is a 59 year-old female CountryL Citizen who has no recent travel history to CountryJ. She is linked to Case 66. She reported onset of symptoms on 23 January and had sought treatment at a general practitioner clinic on 1 February, 6 February and 10 February. As she had been identified as a contact of Case 66. Subsequent test results confirmed COVID-19 infection on 22 February afternoon. Prior to hospital admission, she had mostly stayed at her home at River Drive.
+
+Case 199
+Case 199 is an imported case involving a 38 year-old male CountryL Citizen who had been in CountryI from 26 February to 2 March. He was confirmed to have COVID-19 infection on 13 March morning and is currently warded in an isolation room at Central Hospital. He had attended a mass religious gathering at a mosque in CountryI, and the CountryI authorities had subsequently reported several confirmed COVID-19 cases linked to the event.
+
